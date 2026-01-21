@@ -1,0 +1,28 @@
+.cover-pic {
+  height: 13vh;
+  width: 23vw;
+}
+
+.single-book-item {
+  width: 30vw;
+  
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media( max-width:767px){
+
+.cover-pic{
+
+  width: 12vw;
+}
+.single-book-item{
+
+
+  width: 20vw;
+}
+}
+

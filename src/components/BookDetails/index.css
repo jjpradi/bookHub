@@ -1,0 +1,36 @@
+.book-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 70vw;
+  background-color: #ffffff;
+  margin: 23px;
+  padding: 33px;
+}
+.span-item{
+
+color: rgba(2, 132, 199, 1);
+
+
+
+}
+.star-logo {
+  height: 2vh;
+}
+.book-info {
+  width: 20vw;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgba(245, 247, 250, 1);
+}
