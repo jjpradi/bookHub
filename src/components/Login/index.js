@@ -83,6 +83,7 @@ class Login extends Component {
                 className="input"
                 id="name"
                 type="text"
+  placceholder="john"
               />
             </div>
 
@@ -90,6 +91,8 @@ class Login extends Component {
               <label htmlFor="password">Password*</label>
 
               <input
+
+  placeholder="john@2021"
                 value={password}
                 onChange={this.onPassword}
                 className="input"
